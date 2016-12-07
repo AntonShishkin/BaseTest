@@ -1,0 +1,10 @@
+C:\Users\ASH2\Desktop\test car\test car\bin\Debug\test car.exe.config
+C:\Users\ASH2\Desktop\test car\test car\bin\Debug\test car.exe
+C:\Users\ASH2\Desktop\test car\test car\bin\Debug\test car.pdb
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test car.csprojResolveAssemblyReference.cache
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test_car.Properties.Resources.resources
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test car.csproj.GenerateResource.Cache
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test car.exe
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test car.pdb
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test_car.Form1.resources
+C:\Users\ASH2\Desktop\test car\test car\obj\Debug\test_car.Form2.resources
